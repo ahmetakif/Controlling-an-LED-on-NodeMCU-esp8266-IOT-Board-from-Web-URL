@@ -12,9 +12,9 @@ uint8_t pin_led = 14;
 
 
 
-const char* ssid = "kayanet";
+const char* ssid = "...";
 
-const char* password = "ahmet2002";
+const char* password = "...";
 
 
 
